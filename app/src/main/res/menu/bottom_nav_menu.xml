@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Hava Durumu" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Haritalar" />
+
+    <item
+        android:id="@+id/navigation_fly"
+        android:icon="@drawable/flight"
+        android:title="Hemen Uç" />
+
+    <item
+        android:id="@+id/navigation_logbook"
+        android:icon="@drawable/ic_notifications_black_24dp"
+
+        android:title="Uçuşlarım" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Hesabım" />
+
+</menu>

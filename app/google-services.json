@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480322405783",
+    "firebase_url": "https://flight-app-98d46.firebaseio.com",
+    "project_id": "flight-app-98d46",
+    "storage_bucket": "flight-app-98d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480322405783:android:ff01107012e1a5325a30d2",
+        "android_client_info": {
+          "package_name": "com.sila.flight_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480322405783-rtp5ebf02k62pi2e8eihoj7tpcg320vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBXpH9pSqnXRUDDU2FPnKa-JHEPrWEK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480322405783-rtp5ebf02k62pi2e8eihoj7tpcg320vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flight-App</string>
+    <string name="contract">Uygulamayı kullanabilmeniz için konum ve internet izni gerekmektedir.Lütfen onaylayınız.</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCAYHxDkOs2iNjyOrNXR20Q48R0oR8m-mQ</string>
+</resources>
